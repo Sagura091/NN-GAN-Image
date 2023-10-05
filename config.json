@@ -1,0 +1,1 @@
+{"vocab_size": 9198, "text_embedding": 256, "noise": 100, "epochs": 5000, "batch_size": 32, "image_flat_size": 196608, "learning_rate": 0.0001, "weight_decay": 0.002, "best_g_loss": 10000000000.0, "early_stopping_threshold": 50, "epochs_without_improvement": 0, "lambda_gp": 12, "resume": true, "last_completed_epoch": 423}
